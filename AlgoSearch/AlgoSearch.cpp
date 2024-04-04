@@ -57,6 +57,6 @@ void Linearsearch()
 
 
 		cout << "\n Continue search (y/n): ";
-		cin >> ch;
+		cin >> ch; 
 	}
 }
