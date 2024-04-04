@@ -27,6 +27,9 @@ void input()
 	}
 }
 
-void Linearsearch() {
-
+void Linearsearch()
+{
+	char ch;
+	int ctr; //number of comparisons
+	int item;
 }
